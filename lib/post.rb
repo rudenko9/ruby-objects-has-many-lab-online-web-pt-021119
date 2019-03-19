@@ -7,6 +7,8 @@ class Post
    end 
    
   @@all = []
+  
+  
    
    def self.all
      @@all 
