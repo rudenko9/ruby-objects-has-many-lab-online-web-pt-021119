@@ -8,7 +8,6 @@ class Song
    
    def self.all
      @songs
-     
    end 
 
  def artist_name
