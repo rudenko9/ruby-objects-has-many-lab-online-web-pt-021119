@@ -4,7 +4,7 @@ class Author
     @post = []
    end 
    
-  attr_accessor :name
+  attr_accessor :name, :title
   
   def add_post(post)
     @post << post
